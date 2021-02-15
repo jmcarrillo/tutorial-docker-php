@@ -1,4 +1,4 @@
 <?php
-    echo ("Nuestro primer ejemplo en PHP JMCarrillo");
+    echo ("cambio 15 de febrero JMCarrillo");
     phpinfo();
 ?>
